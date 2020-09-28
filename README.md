@@ -1,12 +1,15 @@
-I like to draw
-I like to explore
-I like to type on a computer but I am quite slow in it.
-I like to read books.
-I like to learn typing as I think that it is interesting
-Barrier of EOY is coming and everyone is feeling nervous about it
-Start a revision programme to help each other.
+print("Title of program: Simple math Revision")
+print()
+print("Welcome to this wonderful math revision kind of website! Please answer the following questions truthfully and you can rtest your math calculation skills")
+print("Please respond with an alphabet A - D, for your options")
+print()
 
-Simple math 
-Q1 what is the product of 23x3?
+nultiplication1 = input("what is the answer for 23x3?")
 
-Q2 What is Ms Low's favourite quotes. State one quote and explain why.
+multiplication2 = input("what is the answer for 23x5-(70-1)?")
+
+multiplication3(final) = input("what is the answer for 34-67+689+(69x3)?")
+
+mathfinal = int(multiplication1)+ int(multiplication2)
+if multiplication1 > multiplication2 > muiltiplication3(final):
+  print("Yay! You have done a good job")
