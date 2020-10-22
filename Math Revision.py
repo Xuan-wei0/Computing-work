@@ -4,8 +4,8 @@ print("Welcome to this wonderful math revision website! Please answer the follow
 print("Please respond with an answer")
 print()
 
-Question1 = input("what is the answer for 23x3?")
-if text1 = input(69)
+Question1 = input("what is the answer for 25 x 5?")
+if text1 = input(125)
   print("Great!")
 else:
   print("Oops! Try again")
@@ -21,7 +21,7 @@ if text3 = imput(863)
 else:
   print("Oops! Try again") 
 
-Question4 = input("What is the answer for 68x2-(88/4+2)+995? /means divide")  
-if text4  
+Question4 = input("What is the answer for 68x2-3")  
+if text4 = 133
 if text1 > text2 > text3(final):
   print("Hooray! You did it!")
