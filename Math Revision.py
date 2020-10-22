@@ -22,6 +22,6 @@ else:
   print("Oops! Try again") 
 
 Question4 = input("What is the answer for 68x2-(88/4+2)+995? /means divide")  
-if text  
+if text4  
 if text1 > text2 > text3(final):
   print("Hooray! You did it!")
