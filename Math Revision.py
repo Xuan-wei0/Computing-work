@@ -1,7 +1,7 @@
 print("Title of program: Simple math Revision")
 print()
 print("Welcome to this wonderful math revision website! Please answer the following questions truthfully and you to test your math calculation skills!")
-print("Please respond with an answer")
+print("Please respond with an answer, for example, if you think the answer is 100, type 100 for that specific question. All the best!")
 print()
 points = 0
 Question1 = int(input("what is the answer for 25 x 5?"))
@@ -47,9 +47,10 @@ else:
   print("Oops! Your answer is wrong")
   
 print("You got " + str(points) + " / 5 !")
-if str(points) == 5
+if points == 5:
   print("WooHoo! Great Job! Keep it up!")
-else:("Try better next time")
+else:
+  print("Try better next time")
 
 
   
