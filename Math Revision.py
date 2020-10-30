@@ -46,13 +46,13 @@ if Question6 == 1158:
 else:
   print("Oops! Your answer is wrong")
   
-print("You got " + str(points) + " / 5 !")
-if points == 5:
+print("You got " + str(points) + " / 6 !")
+if points == 6:
   print("WooHoo! Great Job! Keep it up! Congrats, you have scored a perfect score!")
 elif points >= 3:
   print("You passed, continue improving!")
 else:
-  print("Try doing again.")
+  print("Practice more and score better next time.")
 
 
   
