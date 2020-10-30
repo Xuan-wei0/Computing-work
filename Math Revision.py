@@ -48,9 +48,11 @@ else:
   
 print("You got " + str(points) + " / 5 !")
 if points == 5:
-  print("WooHoo! Great Job! Keep it up!")
+  print("WooHoo! Great Job! Keep it up! Congrats, you have scored a perfect score!")
+elif points >= 3:
+  print("You passed, continue improving!")
 else:
-  print("Try better next time")
+  print("Try doing again.")
 
 
   
