@@ -53,6 +53,6 @@ elif points >= 3:
   print("You passed, continue improving!")
 else:
   print("Practice more and score better next time.")
-
+  print("Hope that this website tested your calculation skills! Goodbye!")
 
   
