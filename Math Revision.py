@@ -1,4 +1,4 @@
-print("Title of program: Simple math Revision")
+print("Title of program: Simple Math Revision")
 print()
 print("Welcome to this wonderful math revision website! Please answer the following questions truthfully and you to test your math calculation skills!")
 print("Please respond with an answer, for example, if you think the answer is 100, type 100 for that specific question. All the best!")
@@ -39,7 +39,7 @@ if Question5 == 2696:
 else:
   print("Oops! Your answer is wrong")
 
-Question6 = int(input("What is the answer for 45+332-38+(4545/9)-22x3+95x4? (/ means divide)
+Question6 = int(input("What is the answer for 45+332-38+(4545/9)-22x3+95x4? (/ means divide)")
 if Question6 == 1158:
   print("Yay, you have done it!")
   points += 1
